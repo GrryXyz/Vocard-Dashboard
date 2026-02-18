@@ -5,7 +5,7 @@
     "client_id": "1473652851048710227",
     "client_secret_id": "OJ_l9LK-GFDXt1CTS0cAfKhx09h7g_4y",
     "secret_key": "musicc",
-    "redirect_url": "http://musicc.up.railway.app:8080/callback",
+    "redirect_url": "http://musicc.up.railway.app/callback",
     "logging": {
         "file": {
             "path": "./logs",
