@@ -1,11 +1,11 @@
 {
-    "host": "Aerox",
-    "port": "1751",
+    "host": "musicc.up.railway.app",
+    "port": "8080",
     "password": "musicc",
     "client_id": "1473652851048710227",
     "client_secret_id": "OJ_l9LK-GFDXt1CTS0cAfKhx09h7g_4y",
     "secret_key": "musicc",
-    "redirect_url": "http://Aerox:1751/callback",
+    "redirect_url": "http://musicc.up.railway.app:8080/callback",
     "logging": {
         "file": {
             "path": "./logs",
