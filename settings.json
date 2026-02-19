@@ -3,7 +3,7 @@
     "port": "8080",
     "password": "musicc",
     "client_id": "1473652851048710227",
-    "client_secret_id": "OJ_l9LK-GFDXt1CTS0cAfKhx09h7g_4y",
+    "client_secret_id": "1sqXETODv2svEaxklvBUNXzHA76NqLKZ",
     "secret_key": "musicc",
     "redirect_url": "http://musicc.up.railway.app/callback",
     "logging": {
